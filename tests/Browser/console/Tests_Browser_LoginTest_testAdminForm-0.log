@@ -1,0 +1,8 @@
+[
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/4.1.1\/js\/bootstrap.min.js 5:2692 Uncaught TypeError: Cannot read property 'fn' of undefined",
+        "source": "javascript",
+        "timestamp": 1619593944180
+    }
+]
